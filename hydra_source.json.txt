@@ -1,0 +1,17 @@
+{
+  "name": "byrutor",
+  "downloads": [
+    {
+      "title": "Abiotic Factory v 0.8.1.10032",
+      "fileSize": "1.03 GB",
+      "uploadDate": "13/05/24",
+      "uris": ["LINK_HERE"]
+    },
+    {
+      "title": "Ghost of Tsushima DIRECTOR'S CUT",
+      "fileSize": "XX GB",
+      "uploadDate": "DD/MM/YY",
+      "uris": ["LINK_HERE"]
+    }
+  ]
+}
